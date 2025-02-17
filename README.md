@@ -1,11 +1,11 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c669f,100:3b5998&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c669f,100:3b5998&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- Typing Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B5998&center=true&vCenter=true&width=500&lines=👨‍💻+ML+Enthusiast+|+Full+Stack+Dev;🚀+Exploring+AI,+Big+Data,+and+Cybersecurity;✨+Let's+Connect+and+Collaborate!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B5998&center=true&vCenter=true&width=500&lines=👨‍💻+AI/ML+Enthusiast+|+Full+Stack+Dev;🚀+Exploring+DL,+Big+Data,+and+Cybersecurity;✨+Let's+Connect+and+Collaborate!">
 </h2>
 
 <!-- Social Media Icons -->
@@ -49,10 +49,9 @@ technical_background:
     "Machine Learning Intern - CodeXcue",
     "Big Data Analytics Research",
     "Full Stack Developer",
-    "Computer Vision Enthusiast"
   ]
 
-currently_learning: ["Docker, Kubernetes, FastAPI, and Flutter"]
+currently_learning: ["NLP, Kubernetes, FastAPI, and Transformers (LLMs)"]
 2025 Goals: ["Build 10+ impactful ML projects, contribute to open source, and refine full-stack development skills."]
 hobbies: ["Gaming", "Video Editing", "Tech Blogging", "Cooking", "AI Research"]
 ```
@@ -62,7 +61,7 @@ hobbies: ["Gaming", "Video Editing", "Tech Blogging", "Cooking", "AI Research"]
 ## 🔧 Some Tools I Have Used and Learned
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express,django,fastapi,pytorch,tensorflow,mongodb,postgres,redis,aws,docker,kubernetes,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,rust,go,html,css,js,react,nodejs,express,django,fastapi,pytorch,tensorflow,sklearn,ai,mongodb,postgres,redis,aws,docker,kubernetes,flutter,figma,git,github,gitlab,apple," />
 </p>
 
 ---
