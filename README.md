@@ -53,7 +53,7 @@ technical_background:
 
 currently_learning: ["NLP, Kubernetes, FastAPI, and Transformers (LLMs)"]
 2025 Goals: ["Build 10+ impactful ML projects, contribute to open source, and refine full-stack development skills."]
-hobbies: ["Gaming", "Video Editing", "Tech Blogging", "Cooking", "AI Research"]
+hobbies: ["Gaming", "Video Editing", "Cooking", "AI Research"]
 ```
 
 ---
